@@ -1,0 +1,1 @@
+# Busca-range-de-ip-vagos-PowerShell
