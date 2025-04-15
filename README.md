@@ -136,7 +136,9 @@ Start-Process $reportFolder
 
 ## 🚀 Autor
 
-Feito com 💻 e ☕ por [AlanMarquesFerreira]  
+Feito com 💻 e ☕ por.  
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/124633669?v=4" width=115><br><sub> Alan Marques Ferreira </sub>](https://github.com/alanmarquesferreira) |  
+ | :---: |
 📅 Última atualização: 15/04/2025
 
 ---
